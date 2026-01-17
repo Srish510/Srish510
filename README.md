@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Srish 👋</h2>
 <p align="center">
 ECE Undergraduate @ Jadavpur University <br>
-Embedded Systems • Robotics • C/C++
+Embedded Systems • Robotics • RTL Design
 </p>
 
 
@@ -17,19 +17,30 @@ Embedded Systems • Robotics • C/C++
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** C, C++, Python  
-**Embedded:** STM32, Arduino  
-**Tools:** Git, Linux, KiCad, VS Code  
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino" />
+</p>
+
+**Embedded & Software**
+- C, C++, Python  
+- STM32, Arduino  
+- Git, Linux, KiCad  
+
+**RTL & VLSI**
+- Verilog HDL  
+- RTL Design & Simulation  
+- Xilinx Vivado  
+- Synopsys Design Tools  
 
 ---
 
 ### 📌 Current Focus
 - Embedded firmware architecture  
-- RTOS & low-level systems  
-- Control systems for robotics  
+- RTL design & verification fundamentals  
+- Computer architecture & digital systems  
 
 ---
 
 <p align="center">
-<em>Always building, always learning.</em>
+<em>Building systems close to the hardware.</em>
 </p>
