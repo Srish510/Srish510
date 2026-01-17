@@ -16,7 +16,7 @@ Embedded Systems • Robotics • RTL Design
 -->
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 #### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -48,7 +48,7 @@ Embedded Systems • Robotics • RTL Design
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ---
 
-## 📌 Current Focus
+### 📌 Current Focus
 - Embedded firmware architecture  
 - RTL design & verification fundamentals  
 - Computer architecture & digital systems  
