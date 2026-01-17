@@ -5,13 +5,14 @@
 💻 Programming: C, C++, Python, Verilog
 🧠 Currently learning: STM32, RTOS, Computer Architecture
 
+<!--
 ---
 
 ## 🚀 Featured Projects
 - **Self-Balancing Robot** – PID-based two-wheel robot with IMU feedback  
 - **Custom Flight Controller** – Sensor fusion and control firmware  
 - **Physics Engine (C++)** – Rigid body simulation from scratch  
-
+-->
 ---
 
 ## 🛠️ Tech Stack
