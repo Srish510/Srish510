@@ -41,6 +41,13 @@ Embedded Systems • Robotics • RTL Design
 
 ---
 
+### 📬 Contact
+- **GitHub:** https://github.com/Srish510  
+- **LinkedIn:** https://www.linkedin.com/in/srish-dutta-47b6bb125
+- **E-Mail:** srish.dutta.post@gmail.com  
+
+---
+
 <p align="center">
 <em>Building systems close to the hardware.</em>
 </p>
