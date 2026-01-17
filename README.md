@@ -23,7 +23,7 @@ Embedded Systems • Robotics • RTL Design
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat)
 
----
+
 
 ### 🔌 Embedded Systems
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
@@ -31,7 +31,7 @@ Embedded Systems • Robotics • RTL Design
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
----
+
 
 ### 🧠 RTL / VLSI
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-6A5ACD?style=flat)
@@ -39,7 +39,7 @@ Embedded Systems • Robotics • RTL Design
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat)
 ![Synopsys](https://img.shields.io/badge/Synopsys%20Tools-000000?style=flat)
 
----
+
 
 ### 🧰 Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
