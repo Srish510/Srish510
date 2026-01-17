@@ -39,12 +39,6 @@ Embedded Systems • Robotics • RTL Design
 - RTL design & verification fundamentals  
 - Computer architecture & digital systems  
 
----
-
-### 📬 Contact
-- **GitHub:** https://github.com/Srish510  
-- **LinkedIn:** https://www.linkedin.com/in/srish-dutta-47b6bb125
-- **E-Mail:** srish.dutta.post@gmail.com  
 
 ---
 
