@@ -1,9 +1,10 @@
 ## Hi there, I'm Srish Dutta👋
 
--🎓 ECE undergrad @ Jadavpur University  
--🔧 Interested in RTL Design, Embedded Systems, Robotics & Control  
--💻 Languages: C, C++, Python, Verilog 
--🧠 Currently learning: RTOS, Computer Architecture
+🎓 ECE undergrad @ Jadavpur University  
+🔧 Interested in RTL Design, Embedded Systems, Robotics & Control  
+💻 Languages: C, C++, Python, Verilog 
+
+🧠 Currently learning: RTOS, Computer Architecture
 
 <!--
 **Srish510/Srish510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
