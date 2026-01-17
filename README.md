@@ -3,9 +3,9 @@
 ECE Undergraduate @ Jadavpur University <br>
 Embedded Systems • Robotics • C/C++
 </p>
-<!--
----
 
+
+<!--
 ### 🚀 Featured Projects
 - 🔹 **Self-Balancing Robot**  
   PID-controlled two-wheel robot using IMU feedback  
