@@ -18,7 +18,7 @@ Embedded Systems • Robotics • RTL Design
 
 ### 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino,raspberrypi" />
 </p>
 
 **Embedded & Software**
