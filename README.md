@@ -23,7 +23,7 @@ Embedded Systems • Robotics • RTL Design
 
 **Embedded & Software**
 - C, C++, Python  
-- STM32, Arduino  
+- STM32, Arduino, ESP32, Raspberry Pi  
 - Git, Linux, KiCad  
 
 **RTL & VLSI**
