@@ -1,43 +1,35 @@
-## Hi there, I'm Srish Dutta👋
+<h2 align="center">Hi, I'm Srish 👋</h2>
+<p align="center">
+ECE Undergraduate @ Jadavpur University <br>
+Embedded Systems • Robotics • C/C++
+</p>
 
-🎓 ECE undergraduate at Jadavpur University  
-🔧 Interested in RTL Design, Embedded Systems, Robotics, and Control Systems  
-💻 Programming: C, C++, Python, Verilog
-🧠 Currently learning: STM32, RTOS, Computer Architecture
-
-<!--
 ---
-
-## 🚀 Featured Projects
-- **Self-Balancing Robot** – PID-based two-wheel robot with IMU feedback  
-- **Custom Flight Controller** – Sensor fusion and control firmware  
-- **Physics Engine (C++)** – Rigid body simulation from scratch  
+<!--
+### 🚀 Featured Projects
+- 🔹 **Self-Balancing Robot**  
+  PID-controlled two-wheel robot using IMU feedback  
+- 🔹 **Custom Flight Controller**  
+  Sensor fusion + control firmware (STM32)  
+- 🔹 **Physics Engine (C++)**  
+  Rigid body simulation from scratch  
 -->
 ---
 
-## 🛠️ Tech Stack
-**Embedded:** STM32, Arduino, ESP32, Raspberry Pi  
-**Software:** C, C++, Python, Git, Verilog  
-**Tools:** KiCad, VS Code, Linux, Vivado, Synopsis Tools  
+### 🛠️ Tech Stack
+**Languages:** C, C++, Python  
+**Embedded:** STM32, Arduino  
+**Tools:** Git, Linux, KiCad, VS Code  
 
 ---
 
-## 📌 Current Focus
-- Improving embedded firmware architecture
-- Learning low-level systems and OS concepts
+### 📌 Current Focus
+- Embedded firmware architecture  
+- RTOS & low-level systems  
+- Control systems for robotics  
 
+---
 
-<!--
-**Srish510/Srish510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<em>Always building, always learning.</em>
+</p>
