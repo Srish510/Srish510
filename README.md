@@ -16,25 +16,39 @@ Embedded Systems • Robotics • RTL Design
 -->
 ---
 
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,linux,arduino,raspberrypi" />
-</p>
-
-**Embedded & Software**
-- C, C++, Python  
-- STM32, Arduino, ESP32, Raspberry Pi  
-- Git, Linux, KiCad  
-
-**RTL & VLSI**
-- Verilog HDL  
-- RTL Design & Simulation  
-- Xilinx Vivado  
-- Synopsys Design Tools  
+## 🛠️ Tech Stack
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=flat)
 
 ---
 
-### 📌 Current Focus
+### 🔌 Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+
+---
+
+### 🧠 RTL / VLSI
+![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-6A5ACD?style=flat)
+![RTL Design](https://img.shields.io/badge/RTL%20Design-4B0082?style=flat)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat)
+![Synopsys](https://img.shields.io/badge/Synopsys%20Tools-000000?style=flat)
+
+---
+
+### 🧰 Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+---
+
+## 📌 Current Focus
 - Embedded firmware architecture  
 - RTL design & verification fundamentals  
 - Computer architecture & digital systems  
