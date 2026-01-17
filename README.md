@@ -16,9 +16,9 @@
 ---
 
 ## 🛠️ Tech Stack
-**Embedded:** STM32, Arduino  
-**Software:** C, C++, Python, Git  
-**Tools:** KiCad, VS Code, Linux  
+**Embedded:** STM32, Arduino, ESP32, Raspberry Pi  
+**Software:** C, C++, Python, Git, Verilog  
+**Tools:** KiCad, VS Code, Linux, Vivado, Synopsis Tools  
 
 ---
 
