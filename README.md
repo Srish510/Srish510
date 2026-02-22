@@ -36,7 +36,7 @@ Embedded Systems • Robotics • RTL Design
 #### 🧠 RTL / VLSI
 ![Verilog HDL](https://img.shields.io/badge/Verilog%20HDL-6A5ACD?style=flat)
 ![RTL Design](https://img.shields.io/badge/RTL%20Design-4B0082?style=flat)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=flat&logo=amd&logoColor=white)
 ![Synopsys](https://img.shields.io/badge/Synopsys%20Tools-000000?style=flat)
 
 
