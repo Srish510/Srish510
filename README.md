@@ -46,7 +46,9 @@ Embedded Systems • Robotics • RTL Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white&logoWidth=20)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![ROS%202](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
 ---
 
 ### 📌 Current Focus
